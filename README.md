@@ -108,3 +108,8 @@ The **WhatsApp Status Saver** Android app is fully built and compiled. Here's wh
 ```powershell
 adb install "G:\whatsappstatusdownload\app\build\outputs\apk\debug\app-debug.apk"
 ```
+
+```
+https://github.com/souvik-dey-28/StatusSaverWhatsapp.apk/blob/main/app-debug.apk
+```
+apk file 🗄️🗃️ download from here and use this app
